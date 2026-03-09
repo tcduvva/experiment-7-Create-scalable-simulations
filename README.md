@@ -304,6 +304,11 @@ public class ScalableSimulation {
  ## Output 
 <img width="675" height="448" alt="Screenshot 2026-02-27 102413" src="https://github.com/user-attachments/assets/33dd165b-a849-41f5-b44a-84b27ae70dac" />
 
+<img width="847" height="399" alt="Screenshot 2026-02-27 102716" src="https://github.com/user-attachments/assets/ceef4ff5-999f-4179-82b7-b0c33e0180bf" />
+
+<img width="757" height="886" alt="Screenshot 2026-02-27 102850" src="https://github.com/user-attachments/assets/95a0ef96-4308-44c4-b77f-2d551c0b2fe9" />
+
+<img width="683" height="397" alt="Screenshot 2026-02-27 102531" src="https://github.com/user-attachments/assets/e28e475e-792e-42af-9117-317be199a947" />
 
 
 
